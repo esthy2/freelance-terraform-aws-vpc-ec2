@@ -6,6 +6,9 @@ This project demonstrates how to deploy a secure, scalable AWS network and compu
 It is designed as a production-ready starting point for startups, SaaS applications, and DevOps teams who want repeatable cloud infrastructure using Infrastructure as Code (IaC).
 
 ## Architecture
+## Architecture Diagram
+
+![Terraform AWS Architecture](assets/project1-architecture.png)
 
 - Custom VPC
 - Public and private subnets
