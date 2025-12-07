@@ -36,17 +36,29 @@ cd terraform-ec2-vpc-module
 
 # Copy example variables and update real values
 cp terraform.tfvars.example terraform.tfvars
-
+---
+```
 terraform init
+```
+```
 terraform fmt
+```
+```
 terraform validate
+```
+```
 terraform plan
+```
+```
 terraform apply
-
+```
 
 To destroy the resources:
-
+```
 terraform destroy
+```
+
+---
 
 Outputs
 
@@ -57,7 +69,7 @@ public_subnet_ids – IDs of public subnets
 private_subnet_ids – IDs of private subnets
 
 ec2_public_ip – Public IP of the EC2 instance
-
+---
 Author
 
 Esther Egbe
