@@ -1,7 +1,7 @@
-# Terraform AWS VPC & EC2 Module
+# Production-Grade Terraform AWS VPC & EC2 Deployment
 
 ## Overview
-This project automates the deployment of a secure AWS VPC with public and private subnets and an EC2 instance in the public subnet, using Terraform and a reusable VPC module.
+This project demonstrates how to deploy a secure, scalable AWS network and compute infrastructure using Terraform and reusable modules for real-world environments.
 
 It is designed as a production-ready starting point for startups, SaaS applications, and DevOps teams who want repeatable cloud infrastructure using Infrastructure as Code (IaC).
 
