@@ -36,7 +36,9 @@ cd terraform-ec2-vpc-module
 
 # Copy example variables and update real values
 cp terraform.tfvars.example terraform.tfvars
+```
 ---
+
 ```
 terraform init
 ```
